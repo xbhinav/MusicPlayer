@@ -24,7 +24,7 @@ from pyrogram import Client, filters
 
 
 
-HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam MusicPlayer 2.0 which plays music in Channels and Groups 24*7\n\nI can even Stream Youtube Live in Your Voicechat\n\nHit /help to know more aboutme 😌\n\nMade with ❤ by @Elonmusk_010.</b>"
+HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam MusicPlayer 2.0 which plays music in Channels and Groups 24*7\n\nI can even Stream Youtube Live in Your Voicechat\n\nHit /help to know more aboutme 🙂\n\nMade with 💝 by @Perfectvazha.</b>"
 HELP = """
 
 <b>Add the bot and User account in your Group with admin rights.
